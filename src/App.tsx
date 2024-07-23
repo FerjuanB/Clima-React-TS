@@ -1,4 +1,5 @@
 import styles from "./App.module.css"
+import { Form } from "./components/Form/Form"
 
 function App() {
 
@@ -6,7 +7,9 @@ function App() {
     <>
      <h1 className={styles.title}>CLima</h1>
    
-    <div className={styles.container}></div>
+    <div className={styles.container}>
+      <Form/>
+    </div>
     </>
   )
 }

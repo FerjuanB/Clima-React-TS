@@ -1,0 +1,7 @@
+.alert{
+    text-align: center;
+    color: rgb(253, 215, 0);
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    font-weight: 600;
+}

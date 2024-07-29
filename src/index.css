@@ -8,7 +8,7 @@ html{
 }
 body{
   font-family: 'Outfit', sans-serif;
-  background-image: url(imagen-fondo.webp);
+  background-image: url(/assets/imagen-fondo.webp);
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
